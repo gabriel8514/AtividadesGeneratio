@@ -2482,3 +2482,747 @@ java.lang.UnsupportedOperationException: No language server has registered to ha
 
 !ENTRY Activator 1 0 2021-07-23 12:41:33.702
 !MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:11:45.706
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:11:45.747
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:11:45.748
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:11:47.214
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:11:47.238
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:11:47.450
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:11:48.635
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:11:48.637
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:11:48.638
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY org.springframework.ide.eclipse.boot 4 0 2021-07-23 21:12:27.504
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.springframework.ide.eclipse.boot.dash.views.BootDashActions$RunOrDebugStateAction$1.run(BootDashActions.java:393)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2021-07-23 21:14:41.037
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:14:41.039
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:14:41.041
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:14:41.668
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:14:41.750
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:14:41.796
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:17:44.635
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:17:44.638
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:17:44.711
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:17:45.224
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:17:45.249
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:17:45.276
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:17:56.845
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:17:56.846
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:17:56.848
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:17:57.487
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:17:57.488
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:17:57.527
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:50:10.615
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:50:10.660
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:50:10.661
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:50:11.172
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:50:11.197
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:50:11.241
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:50:48.171
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:50:48.174
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:50:48.178
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:50:48.756
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:50:48.831
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:50:48.839
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:51:22.094
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:51:22.095
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:51:22.096
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:51:22.733
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:51:22.754
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:51:22.759
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:51:36.690
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:51:36.691
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:51:36.692
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:51:37.302
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:51:37.327
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:51:37.328
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:53:26.830
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:53:26.834
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:53:26.835
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:53:28.117
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:53:28.145
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:53:28.305
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:53:46.145
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:53:46.146
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 21:53:46.147
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:53:46.847
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 21:53:46.853
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 21:53:46.862
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:03:22.861
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:03:22.863
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:03:22.865
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:03:23.457
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:03:23.488
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:03:23.492
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:10:51.814
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:10:51.816
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:10:51.816
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:10:52.419
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:10:52.441
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:10:52.442
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:11:38.251
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:11:38.253
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:11:38.254
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:11:38.864
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:11:38.887
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:11:38.888
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:16:38.571
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:16:38.572
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:16:38.573
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:16:39.144
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:16:39.167
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:16:39.183
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:16:54.623
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:16:54.628
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:16:54.629
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:16:55.187
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:16:55.210
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:16:55.251
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:20:19.557
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:20:19.559
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:20:19.654
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:20:20.123
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:20:20.144
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:20:20.163
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:20:38.682
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:20:38.684
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:20:38.686
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:20:39.289
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:20:39.331
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:20:39.332
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:30:05.817
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:30:05.818
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:30:05.827
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:30:06.365
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:30:06.396
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:30:06.410
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:30:50.613
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:30:50.614
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:30:50.615
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:30:51.185
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:30:51.252
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:30:51.266
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:34:22.453
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:34:22.455
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:34:22.457
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:34:23.008
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:34:23.029
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:34:23.030
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:21.140
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:21.142
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:21.144
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:21.784
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:21.819
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:21.820
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:35.239
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:35.241
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:35.242
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:35.834
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:35.836
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:35.860
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:43.464
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:43.466
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:43.467
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:44.109
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:44.126
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:37:44.129
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:40:22.632
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:40:22.634
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:40:22.635
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:40:23.197
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:40:23.218
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:40:23.220
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:40:36.758
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:40:36.760
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:40:36.763
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:40:37.541
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:40:37.561
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:40:37.564
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:42:02.823
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:42:02.824
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:42:02.826
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:42:03.393
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:42:03.428
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:42:03.450
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:44:52.913
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:44:52.922
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:44:52.923
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:44:53.485
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:44:53.503
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:44:53.506
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:50:16.413
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:50:16.414
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:50:16.424
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:50:17.125
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:50:17.150
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:50:17.157
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:52:31.486
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:52:31.488
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:52:31.495
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:52:32.086
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:52:32.102
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:52:32.107
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:53:14.466
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:53:14.468
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:53:14.469
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:53:15.108
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:53:15.139
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:53:15.147
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:53:28.515
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:53:28.518
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:53:28.522
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:53:29.068
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:53:29.086
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:53:29.089
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-07-23 22:54:27.427
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-07-23 22:54:36.475
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:54:36.479
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:54:36.481
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:54:37.183
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:54:37.186
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:54:37.196
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:55:06.826
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:55:06.828
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:55:06.829
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:55:07.436
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:55:07.457
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:55:07.465
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:55:34.381
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:55:34.383
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:55:34.384
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:55:34.982
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:55:34.999
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:55:35.001
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:56:46.500
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:56:46.502
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:56:46.503
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:56:47.169
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:56:47.231
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:56:47.277
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:57:10.401
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:57:10.404
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:57:10.405
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:57:11.085
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:57:11.099
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:57:11.102
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:57:20.316
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:57:20.317
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:57:20.318
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:57:20.953
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:57:20.978
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:57:20.980
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:59:14.140
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:59:14.142
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:59:14.144
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:59:14.737
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:59:14.803
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:59:14.813
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:59:44.467
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:59:44.475
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:59:44.476
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-07-23 22:59:45.028
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-07-23 22:59:45.031
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-07-23 22:59:45.048
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:02:08.789
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.kEhXunmF
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:02:08.790
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.kEhXunmF
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:02:08.791
+!MESSAGE subsribers = {sts4.classpath.kbbxfVIN=Send Classpath Notifications(93)}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-07-23 23:02:08.792
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.kEhXunmF => OK

@@ -10,8 +10,7 @@ public class HabilidadesMentalidadesController {
 
 	@GetMapping 
 	public String habilidadeMentalidade () {
-		return "Para essa atividade utilizei a habilidade de atenção aos detalhes\n "
-				+ "E a mentalidade de persistencia."; 
+		return "Para essa atividade utilizei a habilidade de atenção aos detalhes"
+				+ "E a mentalidade de persistencia."; 	
 	}
-	
 }
