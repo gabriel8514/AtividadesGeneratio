@@ -11,7 +11,7 @@ import javax.persistence.Temporal;
 import javax.persistence.TemporalType;
 import javax.validation.constraints.Size;
 
-import com.sun.istack.NotNull;
+import javax.validation.constraints.NotNull;
 
 @Entity 
 @Table(name = "postagem")
@@ -21,7 +21,7 @@ public class Postagem {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private long id; 
 
-	@NotNull
+	@NotNull (message = "O Atributo título é obrigatório")
 	@Size(min = 5, max = 100)
 	private String titulo; 
 	
