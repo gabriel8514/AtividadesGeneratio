@@ -1590,3 +1590,2021 @@ java.util.concurrent.TimeoutException
 
 !ENTRY Activator 1 0 2021-08-05 22:49:32.764
 !MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 23:01:41.884
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.EIFDQpmP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 23:01:41.885
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.EIFDQpmP
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 23:01:41.886
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-05 23:01:41.887
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.EIFDQpmP => OK
+!SESSION 2021-08-06 09:33:22.681 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-08-06 09:34:42.167
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-06 09:34:42.168
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@da9374c,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@34647f58,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:35:23.821
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:35:23.822
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@22ed5cea[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:35:23.920
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:35:24.852
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-08-06 09:35:29.662
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 09:35:29.866
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 09:35:29.898
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 09:35:29.900
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 09:35:29.908
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 09:35:29.931
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 09:35:29.952
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-06 09:35:30.379
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\gabri'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:10.041
+!MESSAGE Boot LS startup time from start to initialized: 46029ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:10.509
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.rovPJiANisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:10.525
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:10.534
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:10.536
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:10.537
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.rovPJiAN => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:10.539
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.037
+!MESSAGE classpath=102 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.047
+!MESSAGE buffering callback sts4.classpath.rovPJiAN blogPessoal false 102
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.049
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.051
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.052
+!MESSAGE buffering callback sts4.classpath.rovPJiAN Testando false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.054
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.064
+!MESSAGE classpath=72 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.071
+!MESSAGE buffering callback sts4.classpath.rovPJiAN atividade1 false 72
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.073
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.086
+!MESSAGE classpath=72 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.094
+!MESSAGE buffering callback sts4.classpath.rovPJiAN atividade2 false 72
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.096
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.126
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.135
+!MESSAGE buffering callback sts4.classpath.rovPJiAN ecoenergy false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.136
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.163
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.178
+!MESSAGE buffering callback sts4.classpath.rovPJiAN farmacia false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.180
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.194
+!MESSAGE classpath=72 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.200
+!MESSAGE buffering callback sts4.classpath.rovPJiAN helloword false 72
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.203
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.234
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.249
+!MESSAGE buffering callback sts4.classpath.rovPJiAN lojagames false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:11.251
+!MESSAGE executing callback sts4.classpath.rovPJiAN 8 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-06 09:36:12.741
+!MESSAGE executing callback sts4.classpath.rovPJiAN SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-06 10:53:11.122
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:11.137
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:11.138
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:11.140
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:11.280
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:11.281
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:11.282
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:14.758
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:14.759
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:14.760
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:14.768
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:14.799
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:14.819
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:14.897
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY org.eclipse.ui 2 2 2021-08-06 10:53:32.353
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2021-08-06 10:53:44.403
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:44.406
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:44.408
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:44.457
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:44.479
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:44.485
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 10:53:44.488
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-06 10:53:49.817
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-06 14:25:43.831
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-06 14:33:57.107
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:57.107
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:57.190
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:57.191
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:57.192
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:57.193
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:57.195
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:59.043
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:59.046
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:59.048
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:59.049
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:59.050
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:59.203
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 14:33:59.204
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 14:34:02.379
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 14:34:02.380
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 14:34:02.380
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 14:34:02.386
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 14:34:02.390
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 14:34:02.395
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 14:34:02.410
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:23.660
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:23.665
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:23.811
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:23.861
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:23.863
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:23.866
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:23.869
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:24.476
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:24.477
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:24.478
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:24.479
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:24.480
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:24.482
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 14:41:24.490
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 14:51:23.028
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 14:51:23.050
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 14:51:23.066
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 14:51:23.117
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 14:51:23.118
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 14:51:23.118
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 14:51:23.119
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 14:51:26.037
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 14:51:26.038
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 14:51:26.039
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 14:51:26.046
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 14:51:26.048
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 14:51:26.049
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 14:51:26.080
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 14:54:24.476
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 14:54:24.478
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 14:54:24.484
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 14:54:24.581
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 14:54:24.583
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 14:54:24.584
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 14:54:24.585
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 14:54:25.678
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 14:54:25.682
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 14:54:25.685
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 14:54:25.687
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 14:54:25.696
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 14:54:25.705
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 14:54:25.711
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 14:55:51.369
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 14:55:51.370
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 14:55:51.371
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 14:55:51.372
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 14:55:51.374
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 14:55:51.374
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 14:55:51.376
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 14:55:51.995
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 14:55:52.011
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 14:55:52.038
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 14:55:52.139
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 14:55:52.147
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 14:55:52.205
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 14:55:52.208
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 14:57:20.646
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 14:57:20.648
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 14:57:20.649
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 14:57:20.650
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 14:57:20.651
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 14:57:20.654
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 14:57:20.655
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 14:57:21.647
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 14:57:21.648
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 14:57:21.775
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 14:57:21.778
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 14:57:21.786
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 14:57:21.797
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 14:57:21.798
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 15:04:49.746
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 15:04:49.780
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 15:04:49.781
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 15:04:49.808
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 15:04:49.839
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 15:04:49.865
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 15:04:49.883
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 15:04:51.123
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 15:04:51.129
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 15:04:51.275
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 15:04:51.307
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 15:04:51.337
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 15:04:51.338
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 15:04:51.415
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 15:08:29.225
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 15:08:29.227
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 15:08:29.228
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 15:08:29.430
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 15:08:29.469
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 15:08:29.481
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 15:08:29.482
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 15:08:30.607
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 15:08:30.609
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 15:08:30.612
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 15:08:30.616
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 15:08:30.769
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 15:08:30.775
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 15:08:30.846
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 15:09:58.223
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 15:09:58.224
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 15:09:58.225
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 15:09:58.227
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-06 15:09:58.232
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 15:09:58.233
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 15:09:58.234
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 15:09:59.179
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-06 15:09:59.181
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-06 15:09:59.299
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-06 15:09:59.302
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-06 15:09:59.303
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-06 15:09:59.304
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-06 15:09:59.308
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-07 14:35:18.305
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:36:50.161
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.rovPJiAN
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:36:50.302
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.rovPJiAN
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:36:50.350
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:36:50.353
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.rovPJiAN => OK
+!SESSION 2021-08-07 14:38:07.109 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=pt_BR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.jface 2 0 2021-08-07 14:39:08.839
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2021-08-07 14:39:08.839
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@767d9b9,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@593f7d2e,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2021-08-07 14:39:40.193
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\gabri'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2021-08-07 14:39:58.788
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 14:39:58.795
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 14:39:58.797
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 14:39:58.799
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 14:39:58.817
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 14:39:58.829
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 14:39:58.882
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 14:40:14.923
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 14:40:14.936
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 14:40:14.940
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 14:40:14.949
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 14:40:15.079
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY org.eclipse.ui 2 2 2021-08-07 14:43:17.393
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:43:40.075
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:43:40.077
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2fb5e706[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:43:40.221
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY Activator 1 0 2021-08-07 14:43:40.873
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 14:43:40.875
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 14:43:40.879
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:43:40.881
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY Activator 1 0 2021-08-07 14:43:40.882
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 14:43:40.883
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 14:43:40.884
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 14:43:40.899
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 14:43:45.058
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 14:43:45.062
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 14:43:45.065
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 14:43:45.066
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 14:43:45.068
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 14:43:45.085
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 14:43:45.274
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 14:44:03.867
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 14:44:03.871
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 14:44:03.884
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 14:44:03.885
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 14:44:03.887
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 14:44:03.889
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 14:44:03.890
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:07.265
+!MESSAGE Boot LS startup time from start to initialized: 27028ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:07.741
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.TtLECntjisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:07.761
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:07.769
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:07.770
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:07.771
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:07.772
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.TtLECntj => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.300
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.307
+!MESSAGE buffering callback sts4.classpath.TtLECntj lojagames false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.309
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.310
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.311
+!MESSAGE buffering callback sts4.classpath.TtLECntj Testando false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.313
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.320
+!MESSAGE classpath=72 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.325
+!MESSAGE buffering callback sts4.classpath.TtLECntj atividade1 false 72
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.326
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.334
+!MESSAGE classpath=72 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.340
+!MESSAGE buffering callback sts4.classpath.TtLECntj atividade2 false 72
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.342
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.380
+!MESSAGE classpath=102 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.388
+!MESSAGE buffering callback sts4.classpath.TtLECntj blogPessoal false 102
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.389
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.396
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.404
+!MESSAGE buffering callback sts4.classpath.TtLECntj ecoenergy false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.405
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.414
+!MESSAGE classpath=96 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.420
+!MESSAGE buffering callback sts4.classpath.TtLECntj farmacia false 96
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.421
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.427
+!MESSAGE classpath=72 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.433
+!MESSAGE buffering callback sts4.classpath.TtLECntj helloword false 72
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:08.434
+!MESSAGE executing callback sts4.classpath.TtLECntj 8 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 14:44:10.078
+!MESSAGE executing callback sts4.classpath.TtLECntj SUCCESS [done]
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-07 14:51:17.378
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-07 14:51:46.578
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.ui 4 0 2021-08-07 14:52:14.927
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at java.base/java.util.Collections$SynchronizedList.get(Collections.java:2460)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.selectProposal(CompletionProposalPopup.java:1419)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$ProposalSelectionListener.keyReleased(CompletionProposalPopup.java:253)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:178)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmKeyUp(Widget.java:1835)
+	at org.eclipse.swt.widgets.Control.WM_KEYUP(Control.java:5173)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4793)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4930)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY org.eclipse.ui 4 0 2021-08-07 14:52:57.206
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+	at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+	at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+	at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266)
+	at java.base/java.util.Objects.checkIndex(Objects.java:359)
+	at java.base/java.util.ArrayList.get(ArrayList.java:427)
+	at java.base/java.util.Collections$SynchronizedList.get(Collections.java:2460)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup.selectProposal(CompletionProposalPopup.java:1419)
+	at org.eclipse.jface.text.contentassist.CompletionProposalPopup$ProposalSelectionListener.keyReleased(CompletionProposalPopup.java:253)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:178)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4209)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1043)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1067)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1052)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1094)
+	at org.eclipse.swt.widgets.Widget.sendKeyEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.wmKeyUp(Widget.java:1835)
+	at org.eclipse.swt.widgets.Control.WM_KEYUP(Control.java:5173)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4793)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:4938)
+	at org.eclipse.swt.internal.win32.OS.DispatchMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3624)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1157)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:644)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:551)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:156)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:654)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:591)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1462)
+
+!ENTRY Activator 1 0 2021-08-07 15:23:39.430
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:39.495
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:39.496
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:39.497
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:39.498
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:39.501
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:39.542
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:42.014
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:42.019
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:42.034
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:42.035
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:42.079
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:42.097
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:42.327
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:42.485
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:42.487
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:42.569
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:42.591
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:42.723
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:42.759
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:23:42.888
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:04.684
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:04.688
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:04.690
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:04.700
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:04.705
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:04.711
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 15:24:04.718
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY Activator 1 0 2021-08-07 15:24:04.720
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 15:24:04.728
+!MESSAGE classpath=102 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 15:24:04.735
+!MESSAGE buffering callback sts4.classpath.TtLECntj lojagames false 102
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 15:24:04.736
+!MESSAGE executing callback sts4.classpath.TtLECntj 1 batched events
+
+!ENTRY Activator 1 0 2021-08-07 15:24:05.856
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:05.857
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:05.931
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:05.932
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:05.943
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:05.997
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:06.020
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 15:24:06.273
+!MESSAGE executing callback sts4.classpath.TtLECntj SUCCESS [done]
+
+!ENTRY Activator 1 0 2021-08-07 15:24:09.956
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:09.959
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:09.961
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:09.964
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:09.972
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:09.974
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:10.009
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:11.952
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:11.954
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:11.961
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:11.971
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:11.972
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:11.975
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:11.990
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:13.567
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:13.570
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:13.587
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:13.588
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:13.589
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:13.626
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:24:13.627
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:33:53.979
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:33:53.992
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:33:53.994
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:33:54.148
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:33:54.151
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:33:54.152
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:33:54.208
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:33:55.024
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:33:55.037
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:33:55.050
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:33:55.070
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:33:55.079
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:33:55.088
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:33:55.090
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-07 15:34:19.794
+!MESSAGE Timeout waiting for data to generate LS hover
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-07 15:36:15.239
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:36:15.243
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:36:15.247
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:36:15.258
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:36:15.324
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:36:15.330
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:36:15.337
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:36:15.959
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:36:16.053
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:36:16.096
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:36:16.097
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:36:16.099
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:36:16.104
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:36:16.111
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:39:19.663
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:39:19.665
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:39:19.668
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:39:19.701
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:39:19.703
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:39:19.722
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:39:19.745
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:39:20.416
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:39:20.504
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:39:20.590
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:39:20.627
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:39:20.678
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:39:20.843
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:39:20.884
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:40:49.468
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:40:49.470
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:40:49.471
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:40:49.472
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:40:49.472
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:40:49.473
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:40:49.474
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:40:50.160
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:40:50.201
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:40:50.204
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:40:50.285
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:40:50.288
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:40:50.322
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:40:50.362
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:50:46.168
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:50:46.175
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:50:46.186
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:50:46.246
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:50:46.261
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:50:46.307
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:50:46.386
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:50:46.889
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:50:47.063
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:50:47.108
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:50:47.133
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:50:47.229
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:50:47.312
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:50:47.319
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY org.eclipse.lsp4e 4 0 2021-08-07 15:51:03.774
+!MESSAGE 
+!STACK 0
+java.util.concurrent.TimeoutException
+	at java.base/java.util.concurrent.CompletableFuture.timedGet(CompletableFuture.java:1956)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2091)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.asJavaProposals(LSJavaCompletionProposalComputer.java:91)
+	at org.eclipse.lsp4e.jdt.LSJavaCompletionProposalComputer.computeCompletionProposals(LSJavaCompletionProposalComputer.java:59)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalComputerDescriptor.computeCompletionProposals(CompletionProposalComputerDescriptor.java:348)
+	at org.eclipse.jdt.internal.ui.text.java.CompletionProposalCategory.computeCompletionProposals(CompletionProposalCategory.java:340)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.collectProposals(ContentAssistProcessor.java:333)
+	at org.eclipse.jdt.internal.ui.text.java.ContentAssistProcessor.computeCompletionProposals(ContentAssistProcessor.java:289)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$10(AsyncCompletionProposalPopup.java:352)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.text.contentassist.AsyncCompletionProposalPopup.lambda$9(AsyncCompletionProposalPopup.java:351)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1764)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.exec(CompletableFuture.java:1756)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:295)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1016)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1665)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1598)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183)
+
+!ENTRY Activator 1 0 2021-08-07 15:51:08.361
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:51:08.364
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:51:08.365
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:51:08.366
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:51:08.368
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:51:08.368
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:51:08.369
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:51:08.995
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:51:09.000
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:51:09.003
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:51:09.019
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:51:09.066
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:51:09.067
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:51:09.070
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:57:24.818
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:57:24.902
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:57:24.918
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:57:24.934
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:57:24.961
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:57:24.970
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 15:57:24.974
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:57:25.729
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 15:57:25.747
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 15:57:25.777
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 15:57:25.943
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 15:57:26.030
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 15:57:26.040
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 15:57:26.118
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY org.eclipse.lsp4e 2 0 2021-08-07 16:43:09.611
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2021-08-07 16:51:36.826
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 16:51:36.828
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 16:51:36.830
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 16:51:36.832
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 16:51:36.834
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 16:51:36.890
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 16:51:36.890
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 16:51:37.526
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 16:51:37.532
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 16:51:37.650
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 16:51:37.654
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 16:51:37.683
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 16:51:37.691
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 16:51:37.737
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 16:51:37.742
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 16:51:37.772
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 17:33:51.225
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 17:33:51.292
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 17:33:51.315
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 17:33:51.317
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 17:33:51.318
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 17:33:51.319
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 17:33:51.319
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 17:33:51.890
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 17:33:52.001
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 17:33:52.004
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 17:33:52.030
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 17:33:52.031
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 17:33:52.045
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 17:33:52.046
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:12.733
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:12.735
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:12.748
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:12.758
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:12.856
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:12.857
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:12.859
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:13.520
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:13.530
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:13.603
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:13.606
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:13.678
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:13.856
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:13.867
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:49.394
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:49.396
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:49.398
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:49.399
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:49.399
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:49.400
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:49.401
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:50.211
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:50.255
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:50.307
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:50.356
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:50.367
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:50.396
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 17:42:50.412
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 17:43:14.493
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 17:43:14.494
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 17:43:14.495
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 17:43:14.496
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 17:43:14.497
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 17:43:14.497
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 17:43:14.501
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 17:43:15.455
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 17:43:15.464
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 17:43:15.466
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 17:43:15.487
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 17:43:15.597
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 17:43:15.602
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 17:43:15.623
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 17:46:24.873
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 17:46:24.874
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 17:46:24.875
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 17:46:24.892
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 17:46:24.893
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 17:46:24.898
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 17:46:24.961
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 17:46:25.689
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 17:46:25.723
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 17:46:25.750
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 17:46:25.783
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 17:46:25.810
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 17:46:25.823
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 17:46:25.850
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 18:01:29.143
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 18:01:29.162
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 18:01:29.193
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 18:01:29.198
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 18:01:29.248
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 18:01:29.249
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 18:01:29.283
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 18:01:29.808
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 18:01:29.954
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 18:01:29.955
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 18:01:29.980
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 18:01:29.986
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 18:01:29.991
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 18:01:30.006
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 18:03:58.464
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 18:03:58.465
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 18:03:58.467
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 18:03:58.469
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 18:03:58.470
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 18:03:58.506
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 18:03:58.508
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 18:03:59.231
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 18:03:59.305
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 18:03:59.336
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 18:03:59.420
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 18:03:59.425
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 18:03:59.430
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 18:03:59.452
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 18:09:07.729
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 18:09:07.731
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 18:09:07.732
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 18:09:07.733
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 18:09:07.735
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 18:09:07.738
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 18:09:07.739
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 18:09:08.439
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 18:09:08.580
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 18:09:08.581
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 18:09:08.587
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 18:09:08.588
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 18:09:08.660
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 18:09:08.671
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 18:14:09.249
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 18:14:09.251
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 18:14:09.252
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 18:14:09.252
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY Activator 1 0 2021-08-07 18:14:09.302
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 18:14:09.303
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 18:14:09.332
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 18:14:09.872
+!MESSAGE Has main method computation for project 'atividade2'
+
+!ENTRY Activator 1 0 2021-08-07 18:14:09.913
+!MESSAGE Has main method computation for project 'atividade1'
+
+!ENTRY Activator 1 0 2021-08-07 18:14:10.009
+!MESSAGE Has main method computation for project 'ecoenergy'
+
+!ENTRY Activator 1 0 2021-08-07 18:14:10.011
+!MESSAGE Has main method computation for project 'helloword'
+
+!ENTRY Activator 1 0 2021-08-07 18:14:10.045
+!MESSAGE Has main method computation for project 'lojagames'
+
+!ENTRY Activator 1 0 2021-08-07 18:14:10.049
+!MESSAGE Has main method computation for project 'blogPessoal'
+
+!ENTRY Activator 1 0 2021-08-07 18:14:10.069
+!MESSAGE Has main method computation for project 'farmacia'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 18:14:12.328
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.TtLECntj
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 18:14:12.329
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.TtLECntj
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 18:14:12.330
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2021-08-07 18:14:12.331
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.TtLECntj => OK
